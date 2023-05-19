@@ -9,6 +9,7 @@ The key objectives of this project are:
 To demonstrate practical examples of data cleaning and transformation tasks commonly encountered by data scientists in a Glassdoor role.
 To showcase Excel features, functions, and techniques that are particularly relevant for data scientists.
 To foster collaboration and knowledge sharing among data scientists by encouraging contributions of additional examples and techniques.
+
 # Getting Started
 
 1.To get started using the examples in this repository, follow these steps:
