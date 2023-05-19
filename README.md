@@ -10,17 +10,18 @@ To demonstrate practical examples of data cleaning and transformation tasks comm
 To showcase Excel features, functions, and techniques that are particularly relevant for data scientists.
 To foster collaboration and knowledge sharing among data scientists by encouraging contributions of additional examples and techniques.
 # Getting Started
-To get started using the examples in this repository, follow these steps:
 
-Clone or download the repository to your local machine.
+1.To get started using the examples in this repository, follow these steps:
 
-Open Microsoft Excel and navigate to the directory where you saved the repository.
+2.Clone or download the repository to your local machine.
 
-Explore the different Excel files, each representing a specific data cleaning or transformation task tailored for a Glassdoor data scientist role.
+3.Open Microsoft Excel and navigate to the directory where you saved the repository.
 
-Open the Excel file that corresponds to the task you want to perform.
+4.Explore the different Excel files, each representing a specific data cleaning or transformation task tailored for a Glassdoor data scientist role.
 
-Review the instructions and notes provided in the Excel file to understand the steps and techniques involved.
+5.Open the Excel file that corresponds to the task you want to perform.
+
+6.Review the instructions and notes provided in the Excel file to understand the steps and techniques involved.
 
 # Usage
 The examples in this repository are designed to address data cleaning and transformation challenges commonly encountered by data scientists in a Glassdoor role. Each Excel file focuses on a specific task and provides step-by-step instructions, as well as explanations of the techniques employed.
