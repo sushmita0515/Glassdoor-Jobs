@@ -30,10 +30,15 @@ The examples in this repository are designed to address data cleaning and transf
 Some of the common data cleaning and transformation tasks covered in these examples include:
 
 1.Handling missing values
+
 2.Dealing with outliers
+
 3.Standardizing and formatting data
+
 4.Data validation and quality checks
+
 5.Transforming categorical variables
+
 6.Aggregating and summarizing data
 
 Feel free to adapt and modify these examples to suit your specific needs or apply the techniques to your own datasets. The goal is to provide you with a foundation to build upon and enhance your data cleaning and transformation skills using Excel.
